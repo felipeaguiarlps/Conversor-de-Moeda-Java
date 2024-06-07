@@ -6,8 +6,9 @@ Este é um simples conversor de moedas em Java que utiliza a API ExchangeRate-AP
 Requisitos
 
 ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    Java 11 ou superior
-    Uma chave de API da ExchangeRate-API [Chave](https://www.exchangerate-api.com/)
+
+Java 11 ou superior
+Uma chave de API da ExchangeRate-API [Chave](https://www.exchangerate-api.com/)
 
 ## Configuração
 

@@ -4,9 +4,10 @@ Java Logo
 
 Este é um simples conversor de moedas em Java que utiliza a API ExchangeRate-API para obter as taxas de câmbio mais recentes. O programa permite a conversão entre várias moedas populares.
 Requisitos
-! [Java Logo] (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+[Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     Java 11 ou superior
-    Uma chave de API da ExchangeRate-API (https://www.exchangerate-api.com/)
+    Uma chave de API da ExchangeRate-API [Chave](https://www.exchangerate-api.com/)
 
 ## Configuração
 
